@@ -1,0 +1,11 @@
+Hola mundo
+
+crear una lista del supermercado
+
+* leche 
+* huevos
+* agua
+* pan
+* cereal
+* cerillos
+* no se
